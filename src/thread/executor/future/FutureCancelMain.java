@@ -7,8 +7,8 @@ import static thread.utils.ThreadUtils.sleep;
 
 public class FutureCancelMain {
 
-//    private static boolean mayInterruptIfRunning = true; // 변경
-    private static boolean mayInterruptIfRunning = false; // 변경
+    private static boolean mayInterruptIfRunning = true; // 변경
+//    private static boolean mayInterruptIfRunning = false; // 변경
 
     public static void main(String[] args) {
         ExecutorService es = Executors.newFixedThreadPool(1);
