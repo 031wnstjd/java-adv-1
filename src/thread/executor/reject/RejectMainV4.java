@@ -8,7 +8,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import static thread.utils.MyLogger.log;
+import static util.MyLogger.log;
 
 public class RejectMainV4 {
 

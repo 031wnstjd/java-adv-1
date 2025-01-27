@@ -7,7 +7,7 @@ import java.util.concurrent.SynchronousQueue;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
-import static thread.utils.MyLogger.log;
+import static util.MyLogger.log;
 
 public class RejectMainV1 {
 

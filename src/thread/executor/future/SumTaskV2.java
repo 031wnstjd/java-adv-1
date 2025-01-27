@@ -2,7 +2,7 @@ package thread.executor.future;
 
 import java.util.concurrent.*;
 
-import static thread.utils.MyLogger.log;
+import static util.MyLogger.log;
 
 public class SumTaskV2 {
 

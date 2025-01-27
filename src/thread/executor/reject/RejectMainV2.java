@@ -2,12 +2,9 @@ package thread.executor.reject;
 
 import thread.executor.RunnableTask;
 
-import java.util.concurrent.RejectedExecutionException;
 import java.util.concurrent.SynchronousQueue;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
-
-import static thread.utils.MyLogger.log;
 
 public class RejectMainV2 {
 

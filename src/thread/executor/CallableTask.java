@@ -2,8 +2,8 @@ package thread.executor;
 
 import java.util.concurrent.Callable;
 
-import static thread.utils.MyLogger.log;
-import static thread.utils.ThreadUtils.sleep;
+import static util.MyLogger.log;
+import static util.ThreadUtils.sleep;
 
 public class CallableTask implements Callable<Integer> {
 

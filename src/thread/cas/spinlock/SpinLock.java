@@ -2,8 +2,7 @@ package thread.cas.spinlock;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 
-import static thread.utils.MyLogger.log;
-import static thread.utils.ThreadUtils.sleep;
+import static util.MyLogger.log;
 
 public class SpinLock {
 

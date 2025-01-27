@@ -3,8 +3,8 @@ package thread.bounded;
 import java.util.ArrayList;
 import java.util.List;
 
-import static thread.utils.MyLogger.log;
-import static thread.utils.ThreadUtils.sleep;
+import static util.MyLogger.log;
+import static util.ThreadUtils.sleep;
 
 public class BoundedMain {
 

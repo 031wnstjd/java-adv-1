@@ -1,6 +1,6 @@
 package thread.collection.simple.list;
 
-import static thread.utils.MyLogger.log;
+import static util.MyLogger.log;
 
 public class SimpleListMainV2 {
 

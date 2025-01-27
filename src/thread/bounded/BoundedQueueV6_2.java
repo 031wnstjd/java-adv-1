@@ -3,7 +3,7 @@ package thread.bounded;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 
-import static thread.utils.MyLogger.log;
+import static util.MyLogger.log;
 
 public class BoundedQueueV6_2 implements BoundedQueue {
 

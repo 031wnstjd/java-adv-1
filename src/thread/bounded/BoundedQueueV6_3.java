@@ -4,7 +4,7 @@ import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.TimeUnit;
 
-import static thread.utils.MyLogger.log;
+import static util.MyLogger.log;
 
 public class BoundedQueueV6_3 implements BoundedQueue {
 

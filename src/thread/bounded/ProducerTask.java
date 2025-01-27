@@ -1,8 +1,6 @@
 package thread.bounded;
 
-import thread.utils.MyLogger;
-
-import static thread.utils.MyLogger.*;
+import static util.MyLogger.*;
 
 public class ProducerTask implements Runnable {
 

@@ -2,7 +2,7 @@ package thread.collection.simple.list;
 
 import java.util.Arrays;
 
-import static thread.utils.ThreadUtils.sleep;
+import static util.ThreadUtils.sleep;
 
 public class BasicList implements SimpleList {
 

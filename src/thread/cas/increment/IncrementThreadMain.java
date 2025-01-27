@@ -3,7 +3,7 @@ package thread.cas.increment;
 import java.util.ArrayList;
 import java.util.List;
 
-import static thread.utils.ThreadUtils.sleep;
+import static util.ThreadUtils.sleep;
 
 public class IncrementThreadMain {
 

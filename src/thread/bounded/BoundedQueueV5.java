@@ -6,7 +6,7 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-import static thread.utils.MyLogger.log;
+import static util.MyLogger.log;
 
 public class BoundedQueueV5 implements BoundedQueue {
 

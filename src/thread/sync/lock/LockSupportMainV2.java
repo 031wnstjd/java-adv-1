@@ -2,8 +2,8 @@ package thread.sync.lock;
 
 import java.util.concurrent.locks.LockSupport;
 
-import static thread.utils.MyLogger.log;
-import static thread.utils.ThreadUtils.sleep;
+import static util.MyLogger.log;
+import static util.ThreadUtils.sleep;
 
 public class LockSupportMainV2 {
 

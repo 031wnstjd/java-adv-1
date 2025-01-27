@@ -3,8 +3,8 @@ package thread.executor.future;
 import java.util.Random;
 import java.util.concurrent.*;
 
-import static thread.utils.MyLogger.log;
-import static thread.utils.ThreadUtils.sleep;
+import static util.MyLogger.log;
+import static util.ThreadUtils.sleep;
 
 public class CallableMainV1 {
 
